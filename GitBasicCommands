@@ -8,6 +8,9 @@ git config --global user.email <email of github repo>
 
 git config --list  ---> will diplay the list of users
 
+git clone https://harikabeeram1@github.com/harikabeeram1/Gitbasic.git --> copies the content from one remote repository to your local repository
+
+
 git status --> will displa the status of branch
    * --> indicates where we are
 
